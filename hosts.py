@@ -8,10 +8,7 @@ import os
 from sys import argv
 
 actual_hosts = """127.0.0.1	bonkomputilo\n\
-45.79.149.122	mad-node\n\
-168.235.103.80	production\n\
-168.235.81.117	ramnode-dev\n\
-104.131.66.158	deb9-NY-DigitalOcean"""
+""" # add hosts here that you want to keep
 
 url = "http://someonewhocares.org/hosts/hosts"
 
